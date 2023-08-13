@@ -4,3 +4,5 @@ def bubble_sort(array):
             if array[j] < array[j - 1]:
                 array[j], array[j - 1] = array[j - 1], array[j]
     return array
+
+print(bubble_sort([5, 4, 3, 2, 1])) # [1, 2, 3, 4, 5]
