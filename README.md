@@ -1,6 +1,6 @@
 # Sorting algorithms
 
-Here I store implementation of sorting algorithms in every language I know.
+Here I store implementation of sorting algorithms in every programming language I know.
 
 ## Bubble Sort
 
